@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Iniciei minha trajetória na tecnologia com um curso técnico em Redes de Computadores, que não foi concluído devido a uma mudança. Posteriormente, cursei Informática na ETEC, área pela qual desenvolvi grande afinidade. Apaixonada por tecnologia, busco constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos. Como parte dessa jornada, desenvolvi um site como Trabalho de Conclusão de Curso (TCC), voltado à criação de soluções digitais "[Guia dos Saberes](https/guiadosaberes.com)".
+Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Iniciei minha trajetória na tecnologia com um curso técnico em Redes de Computadores, que não foi concluído devido a uma mudança. Posteriormente, cursei Informática na ETEC, área pela qual desenvolvi grande afinidade. Apaixonada por tecnologia, busco constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos. Como parte dessa jornada, desenvolvi um site como Trabalho de Conclusão de Curso (TCC), voltado à criação de soluções digitais "[Guia dos Saberes](https://guiadosaberes.com/)".
 
 <p align="left">
     <a href="https://github.com/KauanyBarbosa?tab=repositories&sort=stargazers">
