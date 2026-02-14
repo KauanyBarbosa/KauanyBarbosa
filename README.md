@@ -79,6 +79,15 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
 
 <br/>
 <br/>
@@ -87,13 +96,15 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
 
 | Tecnologia | Nível |
 |-----------|-------|
-|![HTML5](https://img.shields.io/badge/html5-%23FFB6C1.svg?style=for-the-badge&logo=html5&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸⚪⚪ |
-|![CSS3](https://img.shields.io/badge/css3-%23FFB6C1.svg?style=for-the-badge&logo=css3&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸⚪⚪ |
+|![HTML5](https://img.shields.io/badge/html5-%23FFB6C1.svg?style=for-the-badge&logo=html5&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸🌸⚪ |
+|![CSS3](https://img.shields.io/badge/css3-%23FFB6C1.svg?style=for-the-badge&logo=css3&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸🌸⚪ |
 |![JavaScript](https://img.shields.io/badge/javascript-%23FFB6C1.svg?style=for-the-badge&logo=javascript&logoColor=white) | 🌸🌸🌸🌸🌸🌸⚪⚪⚪⚪ |
-|![Bootstrap](https://img.shields.io/badge/bootstrap-%23FFB6C1.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸⚪⚪ |
+|![Bootstrap](https://img.shields.io/badge/bootstrap-%23FFB6C1.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸🌸⚪ |
 |![Tailwind](https://img.shields.io/badge/tailwindcss-%23FFB6C1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) | 🌸🌸🌸🌸🌸⚪⚪⚪⚪⚪ |
 |![PHP](https://img.shields.io/badge/php-%23FFB6C1.svg?style=for-the-badge&logo=php&logoColor=white) | 🌸🌸🌸🌸🌸⚪⚪⚪⚪⚪ |
 |![CSharp](https://img.shields.io/badge/c%23-%23FFB6C1.svg?style=for-the-badge&logo=csharp&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸⚪⚪⚪ |
+|![Java](https://img.shields.io/badge/java-%23FFB6C1.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 🌸🌸⚪⚪⚪⚪⚪⚪⚪⚪ |
+
 
 
 
