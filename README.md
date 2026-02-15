@@ -19,10 +19,10 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
             src="https://custom-icon-badges.demolab.com/github/followers/KauanyBarbosa?color=ffcceb&labelColor=ff7acc&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+</p> 
+
 
 ## Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -104,6 +104,13 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
 |![PHP](https://img.shields.io/badge/php-%23FFB6C1.svg?style=for-the-badge&logo=php&logoColor=white) | 🌸🌸🌸🌸🌸⚪⚪⚪⚪⚪ |
 |![CSharp](https://img.shields.io/badge/c%23-%23FFB6C1.svg?style=for-the-badge&logo=csharp&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸⚪⚪⚪ |
 |![Java](https://img.shields.io/badge/java-%23FFB6C1.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 🌸🌸⚪⚪⚪⚪⚪⚪⚪⚪ |
+<br>
+ <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=KauanyBarbosa&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+<br>
 
 
 
