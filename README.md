@@ -22,6 +22,8 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
 </p>
 
 
+✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
+
 
 ## Linguagens e Tecnologias
 <img 
@@ -106,6 +108,7 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
 |![CSharp](https://img.shields.io/badge/c%23-%23FFB6C1.svg?style=for-the-badge&logo=csharp&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸⚪⚪⚪ |
 |![Java](https://img.shields.io/badge/java-%23FFB6C1.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 🌸🌸🌸🌸⚪⚪⚪⚪⚪⚪ |
 <br>
+
  <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=KauanyBarbosa&theme=dark&hide_border=false"
