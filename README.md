@@ -9,17 +9,18 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/KauanyBarbosa?color=ffcceb&style=for-the-badge&labelColor=cc3992&logo=star&label=estrelas"
+            src="https://img.shields.io/github/stars/KauanyBarbosa?style=for-the-badge&color=ffcceb&labelColor=cc3992&logo=star"
         />
     </a>
     <a href="https://github.com/KauanyBarbosa?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/KauanyBarbosa?color=ffcceb&labelColor=ff7acc&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="Seguidores no GitHub" 
+            src="https://img.shields.io/github/followers/KauanyBarbosa?style=for-the-badge&color=ffcceb&labelColor=ff7acc&logo=github"
         />
     </a>
-</p> 
+</p>
+
 
 
 ## Linguagens e Tecnologias
@@ -103,7 +104,7 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
 |![Tailwind](https://img.shields.io/badge/tailwindcss-%23FFB6C1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) | 🌸🌸🌸🌸🌸⚪⚪⚪⚪⚪ |
 |![PHP](https://img.shields.io/badge/php-%23FFB6C1.svg?style=for-the-badge&logo=php&logoColor=white) | 🌸🌸🌸🌸🌸⚪⚪⚪⚪⚪ |
 |![CSharp](https://img.shields.io/badge/c%23-%23FFB6C1.svg?style=for-the-badge&logo=csharp&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸⚪⚪⚪ |
-|![Java](https://img.shields.io/badge/java-%23FFB6C1.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 🌸🌸⚪⚪⚪⚪⚪⚪⚪⚪ |
+|![Java](https://img.shields.io/badge/java-%23FFB6C1.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 🌸🌸🌸🌸⚪⚪⚪⚪⚪⚪ |
 <br>
  <img
         align="left"
