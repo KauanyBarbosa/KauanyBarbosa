@@ -74,8 +74,11 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
   <br>
   <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/kauany-barbosa-747a3a346/">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram&theme=light" />
+  <a href="https://www.linkedin.com/in/kauany-barbosa-747a3a346/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+  <a href="mailto:kauanybarbosa205@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
 </div>
   
