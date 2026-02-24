@@ -1,10 +1,13 @@
-# Kauany Barbosa 🌷
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=ffffff&section=header"/>
+<h1 align="center">🌷 Kauany Barbosa 🌷</h1> 
 
-**`Desenvolvedora Front-end`**
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f5b3d8&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Iniciei minha trajetória na tecnologia com um curso técnico em Redes de Computadores, que não foi concluído devido a uma mudança. Posteriormente, cursei Informática na ETEC, área pela qual desenvolvi grande afinidade. Apaixonada por tecnologia, busco constantemente aprimorar meus conhecimentos por meio de estudos e projetos práticos. Como parte dessa jornada, desenvolvi um site como Trabalho de Conclusão de Curso (TCC), voltado à criação de soluções digitais "[Guia dos Saberes](https://guiadosaberes.com/)".
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/KauanyBarbosa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -20,102 +23,66 @@ Sou Kauany Barbosa de Almeida, tenho 19 anos e sou do estado de São Paulo. Inic
         />
     </a>
 </p>
-
-
-✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
-
-
-## Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSharp" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-
+<br>
+<p align="center">✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦</p>
+<div align="center">
+  <br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Light.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Light.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg">
+</div>
+      
 <br/>
 <br/>
 
-## Estatísticas
+<div align="center">
 
-| Tecnologia | Nível |
-|-----------|-------|
-|![HTML5](https://img.shields.io/badge/html5-%23FFB6C1.svg?style=for-the-badge&logo=html5&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸🌸⚪ |
-|![CSS3](https://img.shields.io/badge/css3-%23FFB6C1.svg?style=for-the-badge&logo=css3&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸🌸⚪ |
-|![JavaScript](https://img.shields.io/badge/javascript-%23FFB6C1.svg?style=for-the-badge&logo=javascript&logoColor=white) | 🌸🌸🌸🌸🌸🌸⚪⚪⚪⚪ |
-|![Bootstrap](https://img.shields.io/badge/bootstrap-%23FFB6C1.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸🌸🌸⚪ |
-|![Tailwind](https://img.shields.io/badge/tailwindcss-%23FFB6C1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) | 🌸🌸🌸🌸🌸⚪⚪⚪⚪⚪ |
-|![PHP](https://img.shields.io/badge/php-%23FFB6C1.svg?style=for-the-badge&logo=php&logoColor=white) | 🌸🌸🌸🌸🌸⚪⚪⚪⚪⚪ |
-|![CSharp](https://img.shields.io/badge/c%23-%23FFB6C1.svg?style=for-the-badge&logo=csharp&logoColor=white) | 🌸🌸🌸🌸🌸🌸🌸⚪⚪⚪ |
-|![Java](https://img.shields.io/badge/java-%23FFB6C1.svg?style=for-the-badge&logo=openjdk&logoColor=white) | 🌸🌸🌸🌸⚪⚪⚪⚪⚪⚪ |
+| Tecnologia | Nível de Habilidade |
+| :--- | :---: |
+| 🌐 **HTML5** | 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ |
+| 🎨 **CSS3** | 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ |
+| ⚡ **JavaScript** | 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ ⚪ |
+| 🌊 **Tailwind** | 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ ⚪ ⚪ |
+| 🅱️ **Bootstrap** | 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ |
+| 🎯 **C#** | 🌸 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ |
+| 🐘 **PHP** | 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ ⚪ ⚪ |
+| 🐬 **MySQL** | 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ ⚪ |
+| 🐍 **Python** | 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ ⚪ ⚪ |
+| ☕ **Java** | 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ ⚪ ⚪ ⚪ |
+| 🤖 **Arduino** | 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ ⚪ |
+| 🎨 **Figma** | 🌸 🌸 🌸 🌸 🌸 🌸 🌸 ⚪ ⚪ ⚪ |
+
+</div>
 <br>
+<p align="center">✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦</p>
 
- <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=KauanyBarbosa&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kauany-barbosa-747a3a346/">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram&theme=light" />
+  </a>
+</div>
+  
+</div>
+
 <br>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=ffffff&section=footer"/>
 
 
 
